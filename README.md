@@ -5,4 +5,5 @@
 
 ## 项目地址
 
-https://github.com/lhr0909/appointment-bot
+- https://aistudio.baidu.com/aistudio/projectdetail/1899120
+- https://github.com/lhr0909/appointment-bot
