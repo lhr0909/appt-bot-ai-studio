@@ -1,15 +1,8 @@
-# AI-Studio-项目标题
+# 使用PaddleNLP，Wechaty和Rasa制作美业预约机器人
 
 ## 项目描述
-简要描述项目
+通过结合PaddleNLP和Wechaty，制作一个基于企业微信的预约机器人，把项目预约记录到企业微信的日历中。
 
-## 项目结构
-```
--|data
--|work
--README.MD
--xxx.ipynb
-```
-## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-B：此处由项目作者进行撰写使用方式。
+## 项目地址
+
+https://github.com/lhr0909/appointment-bot
